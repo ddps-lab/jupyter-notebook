@@ -2,4 +2,4 @@
 
 # Basic Use
 
-docker run -d -p <port>:8888 -e PASSWORD="<password>" kmubigdata/jupyter-notebook 
+docker run -d -p \<port\>:8888 -e PASSWORD="\<password\>" kmubigdata/jupyter-notebook 
